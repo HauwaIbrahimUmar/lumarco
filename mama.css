@@ -1,0 +1,21 @@
+body{
+    background: #070707;
+}
+
+
+
+.learn-more .content  h3{
+    text-align: center;
+    color: #fff;
+    text-transform: capitalize;
+}
+
+.learn-more .content p{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+
+
+  
